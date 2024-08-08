@@ -51,3 +51,4 @@ Please also feel free to join us on [Discord](https://discord.gg/dHJBZw6ewT)!
 
 Participation in the Kargo project is governed by the
 [Contributor Covenant Code of Conduct](https://kargo.akuity.io/contributor-guide/code-of-conduct/).
+# kargo-test
